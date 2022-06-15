@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/deal
+    username: postgres
+    password: P0StGr4S
+    driver-class-name: org.postgresql.Driver
+server:
+  port: 8099
+
